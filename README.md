@@ -33,3 +33,6 @@
 
 💬 I'm always open to collaboration, mentorship, or feedback.  
 Let’s connect!
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goneyak&show_icons=true&theme=radical)
