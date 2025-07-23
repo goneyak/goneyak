@@ -10,7 +10,7 @@
 📜 Former Regulatory Affairs Specialist (2+ yrs in pharma industry)  
 🧬 Pursuing a career at the intersection of data science and healthcare innovation
 
-### 💡 Interests
+💡 Interests
 - Real-world data and clinical outcomes research
 - Integrating omics and clinical data for precision health
 - Natural language processing for healthcare applications  
