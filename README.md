@@ -1,7 +1,8 @@
 # 👩🏻‍⚕️ Goyeun Yun | Healthcare + Data Science
 
 🎓 OMSA student (Georgia Tech)  
-💊 Former Regulatory Affairs Specialist (2+ yrs in pharma industry)  
+💊 Registered Pharmacist in Korea
+📜 Former Regulatory Affairs Specialist (2+ yrs in pharma industry)  
 🧬 Pursuing a career at the intersection of data science and healthcare innovation
 
 ## 💡 Interests
