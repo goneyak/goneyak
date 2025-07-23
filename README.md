@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-goyeun--yun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/goyeun-yun-2a939b22a)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=blogger&logoColor=white)](https://goneyak.tistory.com)
 
-🛠️ Skills
+### 🛠️ Skills   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
