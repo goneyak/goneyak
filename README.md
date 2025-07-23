@@ -26,9 +26,6 @@
 ![AWS Neptune](https://img.shields.io/badge/AWS%20Neptune-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Pharmacology](https://img.shields.io/badge/Pharmacology-%20-blueviolet?style=flat-square)
-![Clinical Trials](https://img.shields.io/badge/Clinical%20Trials-%20-purple?style=flat-square)
-![RWE](https://img.shields.io/badge/RWE-Real--World%20Evidence-informational?style=flat-square)
 
 
 
