@@ -17,6 +17,30 @@
 - Knowledge graph–based medical reasoning
 - Health data analytics for better patient decision-making
 
+## 🧑‍⚕️ Certifications  
+![Pharmacist License](https://img.shields.io/badge/Pharmacist%20License-MFDS-blue?style=flat-square&logo=medrxiv&logoColor=white)
+![Regulatory Affairs](https://img.shields.io/badge/Drug%20RA%20Professional-KFDC-darkgreen?style=flat-square&logo=google&logoColor=white)
+
+## 💻 Programming & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Arena Simulation](https://img.shields.io/badge/Arena%20Simulation-%20-lightgrey?style=flat-square&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+## ☁️ Data & Cloud Platforms  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-E34A6F?style=flat-square&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-222222?style=flat-square&logo=python&logoColor=orange)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+
+
+
 
 ### 💻 Skills   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
