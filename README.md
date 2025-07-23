@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:96DED1,100:E2B0FF&text=Goyeun%20Yun%20%7C%20Pharmacy%20%2B%20Healthcare%20%2B%20Data%20Science&fontColor=000000&fontSize=32&animation=fadeIn" />
-
 
 # 👩🏻‍⚕️ Goyeun Yun | Healthcare + Data Science
 
