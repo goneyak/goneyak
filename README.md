@@ -35,9 +35,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
-
-
-
 ### 🛠️ Projects
 
 - 🔗 [RAG-LLM for Diabetes Treatment](https://github.com/YOURPROJECT1)  
@@ -49,7 +46,6 @@
 - 📊 [HDB Resale Price Prediction](https://github.com/YOURPROJECT2)  
   *Applied random forest models to predict Singapore HDB resale prices using spatial-temporal features.*
 
-Let’s connect!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goneyak&show_icons=true&theme=radical)
