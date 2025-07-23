@@ -38,14 +38,8 @@
 ### 🛠️ Projects
 
 - 🔗 [RAG-LLM for Diabetes Treatment](https://github.com/YOURPROJECT1)  
-  *Built a retrieval-augmented generation system using a medical knowledge graph and LLM to support personalized diabetes care.*
-
 - 🧠 [Obesity Clustering for Personalized Intervention](https://github.com/YOURPROJECT3)  
-  *Performed unsupervised clustering on lifestyle and clinical data to explore precision obesity care strategies.*
-
 - 📊 [HDB Resale Price Prediction](https://github.com/YOURPROJECT2)  
-  *Applied random forest models to predict Singapore HDB resale prices using spatial-temporal features.*
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goneyak&show_icons=true&theme=radical)
