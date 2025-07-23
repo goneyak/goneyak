@@ -3,7 +3,8 @@
 
 [![Gmail](https://img.shields.io/badge/email-goneyak0323@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goneyak0323@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-goyeun--yun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/goyeun-yun-2a939b22a)
-[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=blogger&logoColor=white)](https://goneyak.tistory.com)
+[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=blogger&logoColor=white)](https://goneyak.tistory.com)   
+
 🎓 OMSA student (Georgia Tech)  
 💊 Registered Pharmacist in Korea   
 📜 Former Regulatory Affairs Specialist (2+ yrs in pharma industry)  
