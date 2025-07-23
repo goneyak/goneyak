@@ -1,5 +1,11 @@
 
 # 👩🏻‍⚕️ Goyeun Yun | Healthcare + Data Science
+## 💻 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 🎓 OMSA student (Georgia Tech)  
 💊 Registered Pharmacist in Korea   
