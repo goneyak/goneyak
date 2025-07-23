@@ -41,5 +41,3 @@
 - 🧠 [Obesity Clustering for Personalized Intervention](https://github.com/YOURPROJECT3)  
 - 📊 [HDB Resale Price Prediction](https://github.com/YOURPROJECT2)  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goneyak&show_icons=true&theme=radical)
