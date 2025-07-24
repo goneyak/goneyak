@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👩🏻‍⚕️ Goyeun Yun
 
 [![Gmail](https://img.shields.io/badge/email-goneyak0323@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goneyak0323@gmail.com)
@@ -15,11 +13,11 @@
 
 ### 💡 Interests
 
-Real-world data and clinical outcomes research  
-Integrating omics and clinical data for precision health  
-Natural language processing for healthcare applications  
-Knowledge graph–based medical reasoning  
-Health data analytics for better patient decision-making
+- Real-world data and clinical outcomes research  
+- Integrating omics and clinical data for precision health  
+- Natural language processing for healthcare applications  
+- Knowledge graph–based medical reasoning  
+- Health data analytics for better patient decision-making
 
 ---
 
@@ -46,4 +44,3 @@ Health data analytics for better patient decision-making
 ![PySpark](https://img.shields.io/badge/PySpark-222222?style=flat-square&logo=python&logoColor=orange)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
-</div>
