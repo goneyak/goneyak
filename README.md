@@ -11,23 +11,19 @@
 📜 Former Regulatory Affairs Specialist (2+ yrs in pharma industry)  
 🧬 Pursuing a career at the intersection of data science and healthcare innovation
 
-</div>
-
 ---
 
 ### 💡 Interests
 
-- Real-world data and clinical outcomes research  
-- Integrating omics and clinical data for precision health  
-- Natural language processing for healthcare applications  
-- Knowledge graph–based medical reasoning  
-- Health data analytics for better patient decision-making
+Real-world data and clinical outcomes research  
+Integrating omics and clinical data for precision health  
+Natural language processing for healthcare applications  
+Knowledge graph–based medical reasoning  
+Health data analytics for better patient decision-making
 
 ---
 
 ### 💻 Skills
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
