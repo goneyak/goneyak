@@ -1,65 +1,123 @@
 # 👩🏻‍⚕️ Goyeun Yun
-**PharmD-trained Healthcare Data Scientist**  
-Bridging clinical reasoning and machine learning to develop AI systems that support real treatment decisions and patient-specific therapy.
 
-[![Gmail](https://img.shields.io/badge/email-goneyak0323@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:goneyak0323@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-goyeun--yun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/goyeun-yun-2a939b22a)
-[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=blogger&logoColor=white)](https://goneyak.tistory.com)   
+**Pharmacist building AI systems for medication safety and precision treatment.**
 
-- 🎓 M.S. in Analytics @ Georgia Tech
-- 💊 Licensed Pharmacist (Korea)
-- 📜 Former Regulatory Affairs Specialist (IND/NDA, new drug development)
-- 🧬 Focus: clinically meaningful AI, knowledge-based reasoning, digital twins
+I work on applying data science and AI to **real clinical problems involving medications** — such as drug safety, polypharmacy, and patient-specific treatment decisions.
 
----
+My work sits at the intersection of:
 
-### 💡 Interests
+- pharmacology  
+- clinical reasoning  
+- machine learning  
+- healthcare data systems  
 
-- Patient-specific **digital twin models** for individualized therapy  
-- **Continuous-time modeling** of patient trajectories  
-- **Knowledge graph–guided** clinical decision support  
-- **Uncertainty-aware** treatment recommendation systems  
-- **Privacy-preserving learning** for real-world clinical data (federated, synthetic, distributed)  
-- Real-world data + clinical guidelines + mechanistic reasoning
+The goal is not simply building models, but **designing AI systems that clinicians can actually use** in real healthcare environments where **safety, interpretability, and clinical context matter as much as accuracy.**
 
 ---
 
-### 💻 Technical Skills
+## Problems I Care About
 
-**Core Languages & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+Modern healthcare produces enormous amounts of data, yet **medication decisions remain complex and fragmented**, especially for patients with multiple conditions or multiple drugs.
 
-**Machine Learning & Clinical NLP**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![BERT](https://img.shields.io/badge/BERT-000000?style=flat-square&logo=huggingface&logoColor=yellow)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-0A66C2?style=flat-square&logoColor=white)
-![GloVe](https://img.shields.io/badge/GloVe-6C757D?style=flat-square&logoColor=white)
-![UMLS](https://img.shields.io/badge/UMLS-005BBB?style=flat-square&logoColor=white)
-![SNOMED CT](https://img.shields.io/badge/SNOMED--CT-0084C6?style=flat-square&logoColor=white)
+Questions that drive my work include:
 
-**Big Data & Knowledge Graphs**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-222222?style=flat-square&logo=python&logoColor=orange)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![Spark GraphX](https://img.shields.io/badge/Spark%20GraphX-FF8C00?style=flat-square&logo=apachespark&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![HDFS](https://img.shields.io/badge/HDFS-FFCC00?style=flat-square&logo=apache&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![HBase](https://img.shields.io/badge/HBase-DB1F2F?style=flat-square&logo=apache&logoColor=white)
+- How can we anticipate **adverse drug reactions** before they occur?
+- How can clinicians manage **polypharmacy safely**?
+- Can we model a patient’s **treatment trajectory over time**, not just predict isolated outcomes?
+- How can clinical guidelines and drug knowledge be integrated into **AI-assisted decision support**?
 
+My long-term focus is building **precision medicine systems that improve medication safety and treatment personalization.**
 
 ---
 
-### 🌱 Beyond Work
-I shoot with **vintage film cameras** and love slow travel, wandering through cities,
-visiting small bookstores and cafés, and collecting quiet details that are easy to miss.
+## Current Interests
 
+- AI for **medication safety and treatment personalization**
+- **Polypharmacy risk modeling** in complex patients
+- **Knowledge graph–based clinical reasoning**
+- **Guideline-grounded clinical decision support**
+- **Patient-specific PK and treatment modeling**
+- **Healthcare AI systems that are interpretable and deployable**
 
-*Bridging clinical reasoning and machine learning — building patient-specific digital twins and knowledge graph–guided decision support systems.*
+Particularly interested in improving medication safety for:
 
+- elderly patients  
+- women  
+- pediatric populations  
+- patients with complex comorbidities  
+
+---
+
+## Selected Projects
+
+### [Geriatric Digoxin PK Digital Twin Prototype](https://github.com/goneyak/geriatric-digoxin-pk-digital-twin)
+Building an explainable, patient-specific pharmacokinetic simulation tool for safer digoxin dosing in older adults, with individualized exposure curves and clinical interpretation.
+
+**Technologies:**  
+HTML · JavaScript · PK modeling · Simulation · Clinical interpretation
+
+---
+
+### [Graph-RAG for Evidence-Based Diabetes Care](https://github.com/goneyak/graph-rag-llm-diabetes)
+Building a knowledge graph integrating **FDA drug data and clinical guidelines** to support structured and traceable reasoning for diabetes treatment decisions.
+
+**Technologies:**  
+Python · AWS · Knowledge Graph · RAG · LLM · React
+
+---
+
+### [Obesity Risk Stratification and Personalized Treatment Reasoning](https://github.com/goneyak/rag-llm-obesity)
+Cluster-based modeling of obesity phenotypes to explore **risk prediction and personalized treatment strategies** using structured clinical features and guideline-informed reasoning.
+
+**Technologies:**  
+Python · scikit-learn · Clustering · Clinical feature analysis · RAG
+
+---
+
+### [Workflow Simulation for Bottleneck Analysis](https://github.com/goneyak/coffee-shop-workflow-optimization)
+Simulation of multi-stage service workflows using queueing theory to analyze **structural bottlenecks** and system-level inefficiencies relevant to healthcare and service operations.
+
+**Technologies:**  
+Python · Stochastic simulation · Operations research
+
+---
+
+## Technical Toolkit
+
+**Languages**  
+Python · R · SQL · JavaScript
+
+**Modeling & Analysis**  
+scikit-learn · PyTorch · simulation modeling · clustering · statistical analysis
+
+**Healthcare AI & Systems**  
+RAG · Knowledge Graphs · clinical reasoning workflows · patient-specific modeling
+
+**Infrastructure & Apps**  
+AWS · React · serverless architecture
+
+---
+
+## Background
+
+**M.S. in Analytics** — Georgia Institute of Technology  
+
+**Licensed Pharmacist (Korea)**
+
+Former Regulatory Affairs Specialist in pharmaceutical development, with experience in:
+
+- IND/NDA documentation  
+- drug development strategy  
+- regulatory evaluation of medicines  
+
+This background shapes how I approach AI:
+
+I focus on **clinically meaningful systems**, not just predictive models.
+
+---
+
+## Philosophy
+
+Healthcare AI should not only be powerful.
+
+It must also be **clinically meaningful, trustworthy, and safe enough to be used in real medical decisions.**
