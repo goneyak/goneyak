@@ -20,7 +20,7 @@ My goal is not just to build models, but to build systems that clinicians can ac
 ## Selected Projects
 
 ### [Geriatric Digoxin PK Digital Twin Prototype](https://github.com/goneyak/geriatric-digoxin-pk-digital-twin)
-An explainable, patient-specific pharmacokinetic simulation tool designed to support safer digoxin dosing in older adults. The project focuses on individualized exposure patterns, clinically interpretable outputs, and medication-related decision support for high-risk patients.
+An explainable prototype for patient-specific digoxin exposure modeling in older adults, built to explore how renal function, frailty, and dosing context can shape medication-related decisions.
 
 **Tech:** HTML · JavaScript · PK modeling · Simulation · Clinical interpretation
 
