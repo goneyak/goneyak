@@ -17,26 +17,27 @@ My goal is not just to build models, but to build systems that clinicians can ac
 - Healthcare systems that are **usable, traceable, and safety-aware**
 
 ---
+
 ## Selected Projects
 
-### [Geriatric Digoxin PK Digital Twin Prototype](https://github.com/goneyak/geriatric-digoxin-pk-digital-twin)
-An explainable prototype for patient-specific digoxin exposure modeling in older adults, built to explore how renal function, frailty, and dosing context can shape medication-related decisions.
+### [DUR Risk Map: Contraindication Network for Medication Safety](https://github.com/goneyak/dur-network-visualization)
+An interactive medication safety prototype built on public Korean DUR contraindication data, designed to make drug–drug risk relationships more visible and easier to explore. The project also highlights vulnerable population signals to support more intuitive safety-oriented reasoning.
 
-**Tech:** HTML · JavaScript · PK modeling · Simulation · Clinical interpretation
+**Tech:** Python · Streamlit · NetworkX · Plotly · Medication safety data
 
 ---
 
 ### [Graph-RAG for Evidence-Based Diabetes Care](https://github.com/goneyak/graph-rag-llm-diabetes)
-A clinically oriented reasoning system that integrates FDA drug data and guideline knowledge into a graph-based retrieval workflow for more structured and traceable treatment decision support in diabetes care.
+A clinically oriented reasoning system integrating drug knowledge and guideline information to support more structured and traceable treatment decisions.
 
 **Tech:** Python · AWS · Knowledge Graph · RAG · LLM · React
 
 ---
 
 ### [llmsyn-repro](https://github.com/goneyak/llmsyn-repro)
-A reproduction and evaluation project focused on synthetic healthcare data, with emphasis on rigorous benchmarking, downstream task utility, and practical model assessment for clinically relevant data applications.
+A healthcare data reproduction and evaluation project focused on benchmarking, downstream utility, and practical model assessment for synthetic clinical data.
 
-**Tech:** Python · Machine Learning · Evaluation Pipelines · Healthcare Data · Reproducibility
+**Tech:** Python · Evaluation Pipelines · Healthcare Data · Reproducibility
 
 ---
 
