@@ -17,27 +17,26 @@ My goal is not just to build models, but to build systems that clinicians can ac
 - Healthcare systems that are **usable, traceable, and safety-aware**
 
 ---
-
 ## Selected Projects
 
 ### [Geriatric Digoxin PK Digital Twin Prototype](https://github.com/goneyak/geriatric-digoxin-pk-digital-twin)
-An explainable, patient-specific pharmacokinetic simulation tool designed to support **safer digoxin dosing in older adults** through individualized exposure curves and clinically interpretable outputs.
+An explainable, patient-specific pharmacokinetic simulation tool designed to support safer digoxin dosing in older adults. The project focuses on individualized exposure patterns, clinically interpretable outputs, and medication-related decision support for high-risk patients.
 
 **Tech:** HTML · JavaScript · PK modeling · Simulation · Clinical interpretation
 
 ---
 
 ### [Graph-RAG for Evidence-Based Diabetes Care](https://github.com/goneyak/graph-rag-llm-diabetes)
-A knowledge graph–based clinical reasoning system integrating **FDA drug data and clinical guidelines** to support more structured, traceable diabetes treatment decisions.
+A clinically oriented reasoning system that integrates FDA drug data and guideline knowledge into a graph-based retrieval workflow for more structured and traceable treatment decision support in diabetes care.
 
 **Tech:** Python · AWS · Knowledge Graph · RAG · LLM · React
 
 ---
 
-### [Workflow Simulation for Bottleneck Analysis](https://github.com/goneyak/coffee-shop-workflow-optimization)
-A simulation-based workflow analysis project exploring **structural bottlenecks and system inefficiencies** in multi-stage service processes, with relevance to healthcare operations and delivery design.
+### [llmsyn-repro](https://github.com/goneyak/llmsyn-repro)
+A reproduction and evaluation project focused on synthetic healthcare data, with emphasis on rigorous benchmarking, downstream task utility, and practical model assessment for clinically relevant data applications.
 
-**Tech:** Python · Stochastic simulation · Operations research
+**Tech:** Python · Machine Learning · Evaluation Pipelines · Healthcare Data · Reproducibility
 
 ---
 
